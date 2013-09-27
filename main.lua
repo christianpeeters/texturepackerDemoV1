@@ -1,4 +1,4 @@
-
+-- You can see the tutorial at christianpeeters --- 
 local xCenter = display.contentWidth * .5
 local yCenter = display.contentHeight * .5
 
